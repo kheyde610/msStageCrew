@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "express-starter",
+        "scope": null,
+        "escapedName": "express-starter",
+        "name": "express-starter",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/katherineheyde/Sites/msStageCrew"
+    ]
+  ],
+  "_from": "express-starter@latest",
+  "_id": "express-starter@0.0.2",
+  "_inCache": true,
+  "_location": "/express-starter",
+  "_npmUser": {
+    "name": "shakna-israel",
+    "email": "jmilne@graphic-designer.com"
+  },
+  "_npmVersion": "1.4.28",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "express-starter",
+    "scope": null,
+    "escapedName": "express-starter",
+    "name": "express-starter",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/express-starter/-/express-starter-0.0.2.tgz",
+  "_shasum": "e29bbf8c08abab1fb2f0cdd81c8f3a5a7c1caa6e",
+  "_shrinkwrap": null,
+  "_spec": "express-starter",
+  "_where": "/Users/katherineheyde/Sites/msStageCrew",
+  "author": {
+    "name": "shakna-israel"
+  },
+  "dependencies": {
+    "consolidate": "^0.10.0",
+    "express": "^4.10.6",
+    "express-less": "0.0.6",
+    "mustache": "^1.0.0"
+  },
+  "description": "Quick Boilerplate for Express",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "e29bbf8c08abab1fb2f0cdd81c8f3a5a7c1caa6e",
+    "tarball": "https://registry.npmjs.org/express-starter/-/express-starter-0.0.2.tgz"
+  },
+  "gitHead": "8f2a7ae6d90d7a964c2080a47c635bbc4aeae98e",
+  "license": "MIT",
+  "main": "app.js",
+  "maintainers": [
+    {
+      "name": "shakna-israel",
+      "email": "jmilne@graphic-designer.com"
+    }
+  ],
+  "name": "express-starter",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.2"
+}

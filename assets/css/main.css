@@ -1,0 +1,46 @@
+body {
+  background-color: #ddd;
+  font-family: arial;
+  font-size: 16px;
+  color: black;
+  width: 100%;
+  margin: 20px;
+}
+
+embed {
+  margin-top: 25px;
+  width: 70%;
+}
+
+/*p {
+  margin: 30px;
+}
+
+header {
+  margin: 30px;
+}*/
+
+#poop {
+  width: 100%;
+  margin-left: -20px;
+  margin-top: -25px;
+  /*height: auto;*/
+}
+
+table {
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+button {
+  background-color: #007; /* Red */
+  border: none;
+  color: white;
+  height: 70px;
+  padding-left: 22px;
+  padding-right: 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
